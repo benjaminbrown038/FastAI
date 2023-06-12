@@ -24,3 +24,7 @@
 ##### Train Loop 
 
 - https://docs.fast.ai/learner.html
+
+Complete:
+
+1. Documentation
